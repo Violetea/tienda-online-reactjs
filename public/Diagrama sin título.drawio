@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-02T15:50:45.023Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="TJhuxCTD8d0JYmm4NAUi" version="21.1.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-04-02T15:51:24.572Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vi9f-4Zqir3fy1MPrPAP" version="21.1.2" type="github" pages="3">
   <diagram name="Panel Admin" id="t2L8CnPRh0gNnqxvmzIr">
     <mxGraphModel dx="954" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
         <mxCell id="vEhi0UHEAIM1jvqZb0fk-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vEhi0UHEAIM1jvqZb0fk-1" target="vEhi0UHEAIM1jvqZb0fk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vEhi0UHEAIM1jvqZb0fk-1" value="PANEL USUARIO ADMIN&lt;br&gt;1. Datos personales&lt;br&gt;2. Seguridad" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="vEhi0UHEAIM1jvqZb0fk-1" value="USUARIO ADMIN&lt;br&gt;1. Datos personales&lt;br&gt;2. Seguridad" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="120" y="140" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vEhi0UHEAIM1jvqZb0fk-2" value="DATOS PERSONALES&lt;br&gt;1. Cambiar datos&lt;br&gt;2. Subir foto" style="whiteSpace=wrap;html=1;align=left;rounded=1;" vertex="1" parent="1">
